@@ -1,6 +1,11 @@
+dir
 def
 coords
 img
 json
+clrjson
+ddd
 dir
-clr
+logo
+instruc
+barcode
