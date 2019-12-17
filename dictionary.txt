@@ -1,0 +1,6 @@
+def
+coords
+img
+json
+dir
+clr
