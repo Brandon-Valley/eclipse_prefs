@@ -94,3 +94,10 @@ dir
 logo
 instruc
 barcode
+dict
+int
+ex
+strftime
+dt
+brandon
+dicts
